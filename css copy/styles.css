@@ -1,0 +1,241 @@
+body {
+
+    background-image: linear-gradient(red, blue);
+    ;
+}
+
+table,
+td,
+tr {
+
+
+    border-collapse: collapse;
+
+}
+
+td,
+tr {
+    background-color: white;
+}
+
+table {
+    padding: 40px;
+}
+
+.titre {
+
+    background-color: black;
+    color: white;
+
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+table {
+    margin: auto;
+}
+
+img {
+    max-width: 600px;
+
+    padding-left: 5px;
+    float: left;
+}
+
+
+.titreacteur {
+    width: 350px;
+
+    background-color: blue;
+    color: white;
+    border-collapse: collapse;
+    font-family: 'Courier New', Courier, monospace;
+
+
+
+}
+
+.Photoacteur {
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 40px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;
+    background-image:url(images/Chris_Evans.png);
+    
+}
+
+.Photoacteur1 {
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 40px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;
+    background-image: url(images/Chris_Hemsworth.png);
+    text-align: right;
+
+
+}
+
+.Photoacteur2 {
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 40px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;
+    background-image: url(images/Jeremy_Renner.png);
+    text-align: right;
+
+
+}
+
+.Photoacteur3 {
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 40px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;
+    background-image: url(images/Mark_Ruffalo.png);
+    text-align: right;
+
+
+}
+
+.Photoacteur4 {
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 40px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;
+    background-image: url(images/Robert_Downey_Jr..png);
+    text-align: right;
+
+
+}
+
+.Photoacteur5 {
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 40px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;
+    background-image: url(images/Scarlett_Johansson.png);
+    text-align: right;
+
+
+}
+
+.Photoacteur6 {
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 40px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;
+    background-image: url(images/Tom_Hiddleston.png);
+    text-align: right;
+
+
+}
+
+
+
+
+.Source {
+
+    padding-left: 10px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+.autrefilm {
+    padding-left: 10px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+.text1 {
+    padding-right: 71px;
+    float: right;
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+.text2{
+    padding-right: 71px;
+    float: right;
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+.text3{
+    padding-right: 90px;
+    float: right;
+    text-align: left; 
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.text4{
+    padding-right: 100px;
+    float: right;
+    text-align: left; 
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.text5{
+    padding-right: 51px;
+    float: right;
+    text-align: left; 
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.text6{
+    padding-right: 43px;
+    float: right;
+    text-align: left; 
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.text7{
+    padding-right: 81px;
+    float: right;
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+
+
+
+p {
+    color: blue;
+}
+
+a {
+    color: black;
+}
+
+
+.synopsis {
+    padding-left: 5px;
+    font-family: 'Courier New', Courier, monospace;
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+
